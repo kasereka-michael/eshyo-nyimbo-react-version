@@ -1,0 +1,13 @@
+{
+  "android": {
+    "package": "com.kaserekamichael.eshyonyimboreactversion"
+  },
+  "plugins": [
+    "expo-font"
+  ],
+  "extra": {
+    "eas": {
+      "projectId": "737cbb7e-a6ad-4acd-aaa1-4c5303fa20ea"
+    }
+  }
+}

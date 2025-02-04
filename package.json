@@ -1,0 +1,32 @@
+{
+  "name": "eshyo-nyimbo-react-version",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/stack": "^7.1.1",
+    "expo": "~52.0.25expo",
+    "expo-font": "~13.0.3",
+    "install": "^0.13.0",
+    "react": "^18.3.1",
+    "react-native": "0.76.6",
+    "react-native-safe-area-context": "4.12.0",
+    "react-native-screens": "^4.4.0",
+    "react-navigation": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@types/react": "^18.3.12",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^5.7.2"
+  }
+}
