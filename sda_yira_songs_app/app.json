@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Esyonyimbo sya kristo",
+    "slug": "sda_yira_songs_app",
+    "extra": {
+      "eas": {
+        "projectId": "7a1a8330-55a0-4aad-890c-f35373366cac"
+      }
+    },
+    "android": {
+      "package": "yira.example.user.nandehymnalebook"
+    }
+  }
+}

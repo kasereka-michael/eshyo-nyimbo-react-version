@@ -1,13 +1,17 @@
 {
-  "android": {
-    "package": "com.kaserekamichael.eshyonyimboreactversion"
-  },
-  "plugins": [
-    "expo-font"
-  ],
-  "extra": {
-    "eas": {
-      "projectId": "737cbb7e-a6ad-4acd-aaa1-4c5303fa20ea"
+  "expo": {
+    "name": "Esyonyimbo sya kristo",
+    "slug": "eshyo-nyimbo-react-version",
+    "android": {
+      "package": "com.kaserekamichael.eshyonyimboreactversion"
+    },
+    "plugins": [
+     
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "737cbb7e-a6ad-4acd-aaa1-4c5303fa20ea"
+      }
     }
   }
 }
